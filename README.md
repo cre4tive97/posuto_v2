@@ -9,8 +9,11 @@
 ![License](https://img.shields.io/badge/LICENSE-MIT-critical)
 ![Version](https://img.shields.io/badge/Version-2.0-%23f67aff)
 </br>
-*Vue 3 Composition API + Typescript*
+*Vue 3 Composition API + Typescript* </br>
+Updated works! : [Vue 3 Script Setup + Typescript + VueUse (Version 3.0)](https://github.com/cre4tive97/posuto)
 </p>
+
+
 </br>
 
 
@@ -201,6 +204,7 @@ Tech Stack : <br/>
 
 ## 📂 Version
 - [Version 1.0](https://github.com/cre4tive97/posuto-vue2)
+- [Version 3.0](https://github.com/cre4tive97/posuto)
 
 ## 🔑 License
 </br>
